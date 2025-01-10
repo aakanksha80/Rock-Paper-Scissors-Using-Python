@@ -24,7 +24,7 @@
 
 
 ### Contact Information:
-For any questions or feedback, feel free to reach out at Email: aakashjainonline18@gmail.com or linkedin: https://www.linkedin.com/in/aakash-jain-bb7336254/
+For any questions or feedback, feel free to reach out at Email: as4704312@gmail.com or linkedin: https://www.linkedin.com/in/aakanksha-sharma2503/
 
 ### Contribution Guidelines:
 If you'd like to contribute to this project, please refer to the guidelines in the CONTRIBUTING.md file.
